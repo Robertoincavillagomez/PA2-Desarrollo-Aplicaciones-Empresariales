@@ -1,0 +1,25 @@
+
+# Maven
+**/target/
+
+# IntelliJ IDEA
+**/.idea/
+**/*.iml
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Configuracion local y credenciales
+.env
+.env.*
+**/application-local.properties
+**/application-local.yml
+**/application-local.yaml
+
+# Credenciales de SQL Server
+**/config/database.properties
+
